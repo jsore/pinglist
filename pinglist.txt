@@ -1,11 +1,6 @@
 Wed Jun 19 13:15:14 CDT 2019
-Pinging 169.54.192.2 host down
-Pinging 169.54.192.22 host down
-Pinging 169.54.192.25 host down
-Pinging 169.54.192.26 host down
-Pinging 169.54.192.27 host down
-Pinging 169.54.192.28 host down
-Pinging 169.54.192.29 host down
-Pinging 169.54.192.30 host down
-Pinging 169.53.254.52 host down
-Pinging 169.54.192.7 host down
+Pinging xxx.xx.xxx.xxx host down
+Pinging xxx.xx.xxx.xx host down
+Pinging xxx.xx.xx.xxx host up
+Pinging xxx.xxx.xxx.xx host down
+Pinging xx.xxx.xxx.xxx host down
